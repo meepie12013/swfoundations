@@ -1,0 +1,255 @@
+{
+   "AllActors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney",
+      "Wallace Shawn",
+      "John Ratzenberger",
+      "Annie Potts",
+      "John Morris",
+      "Erik von Detten",
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Cary Grant",
+      "Katharine Hepburn",
+      "James Stewart",
+      "Ruth Hussey",
+      "John Howard",
+      "Roland Young",
+      "John Halliday",
+      "Mary Nash",
+      "Virginia Weidler",
+      "Henry Daniell",
+      "Lionel Pape",
+      "Rex Evans",
+      "David Clyde",
+      "Hilda Plowright",
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Carl Weathers",
+      "Burgess Meredith",
+      "Thayer David",
+      "Joe Spinell",
+      "Tony Burton",
+      "Pedro Lovell"
+   ],
+   "Directors": [
+      "John Lasseter",
+      "Irvin Kershner",
+      "George Cukor",
+      "John G. Avildsen"
+   ],
+   "movies": [
+      {
+         "Actors": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles",
+            "Jim Varney",
+            "Wallace Shawn",
+            "John Ratzenberger",
+            "Annie Potts",
+            "John Morris",
+            "Erik von Detten"
+         ],
+         "Awards": "Nominated for 3 Oscars. Another 27 wins & 20 nominations.",
+         "BoxOffice": "N/A",
+         "Country": "USA",
+         "Director": "John Lasseter",
+         "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+         "Language": "English",
+         "Metascore": "95",
+         "Plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+         "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+         "Rated": "G",
+         "Ratings": [
+            {
+               "Source": "Internet Movie Database",
+               "Value": "8.3/10"
+            },
+            {
+               "Source": "Rotten Tomatoes",
+               "Value": "100%"
+            },
+            {
+               "Source": "Metacritic",
+               "Value": "95/100"
+            }
+         ],
+         "ReleaseDate": "0001-01-01T00:00:00",
+         "Runtime": "81 min",
+         "Title": "Toy Story",
+         "Type": "movie",
+         "Website": "N/A",
+         "Writers": [
+            "John Lasseter (original story by)",
+            "Pete Docter (original story by)",
+            "Andrew Stanton (original story by)",
+            "Joe Ranft (original story by)",
+            "Joss Whedon (screenplay by)",
+            "Andrew Stanton (screenplay by)",
+            "Joel Cohen (screenplay by)",
+            "Alec Sokolow (screenplay by)"
+         ],
+         "Year": 1995,
+         "imdbID": "tt0114709",
+         "imdbRating": 8.3,
+         "imdbVotes": 0
+      },
+      {
+         "Actors": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+         ],
+         "Awards": "Won 1 Oscar. Another 24 wins & 20 nominations.",
+         "BoxOffice": "N/A",
+         "Country": "USA",
+         "Director": "Irvin Kershner",
+         "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+         "Language": "English",
+         "Metascore": "82",
+         "Plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+         "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+         "Rated": "PG",
+         "Ratings": [
+            {
+               "Source": "Internet Movie Database",
+               "Value": "8.7/10"
+            },
+            {
+               "Source": "Rotten Tomatoes",
+               "Value": "94%"
+            },
+            {
+               "Source": "Metacritic",
+               "Value": "82/100"
+            }
+         ],
+         "ReleaseDate": "0001-01-01T00:00:00",
+         "Runtime": "124 min",
+         "Title": "Star Wars: Episode V - The Empire Strikes Back",
+         "Type": "movie",
+         "Website": "N/A",
+         "Writers": [
+            "Leigh Brackett (screenplay by)",
+            "Lawrence Kasdan (screenplay by)",
+            "George Lucas (story by)"
+         ],
+         "Year": 1980,
+         "imdbID": "tt0080684",
+         "imdbRating": 8.7,
+         "imdbVotes": 0
+      },
+      {
+         "Actors": [
+            "Cary Grant",
+            "Katharine Hepburn",
+            "James Stewart",
+            "Ruth Hussey",
+            "John Howard",
+            "Roland Young",
+            "John Halliday",
+            "Mary Nash",
+            "Virginia Weidler",
+            "Henry Daniell",
+            "Lionel Pape",
+            "Rex Evans",
+            "David Clyde",
+            "Hilda Plowright"
+         ],
+         "Awards": "Won 2 Oscars. Another 3 wins & 5 nominations.",
+         "BoxOffice": "N/A",
+         "Country": "USA",
+         "Director": "George Cukor",
+         "Genre": "Comedy, Romance",
+         "Language": "English, French",
+         "Metascore": "96",
+         "Plot": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+         "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ4ZDA4NGMtMTkwYi00NThiLThhZDUtZTEzNTAxOWYyY2E4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+         "Rated": "Not Rated",
+         "Ratings": [
+            {
+               "Source": "Internet Movie Database",
+               "Value": "7.9/10"
+            },
+            {
+               "Source": "Rotten Tomatoes",
+               "Value": "100%"
+            },
+            {
+               "Source": "Metacritic",
+               "Value": "96/100"
+            }
+         ],
+         "ReleaseDate": "0001-01-01T00:00:00",
+         "Runtime": "112 min",
+         "Title": "The Philadelphia Story",
+         "Type": "movie",
+         "Website": "N/A",
+         "Writers": [
+            "Donald Ogden Stewart (screen play)",
+            "Philip Barry (based on the play by)"
+         ],
+         "Year": 1940,
+         "imdbID": "tt0032904",
+         "imdbRating": 7.9,
+         "imdbVotes": 0
+      },
+      {
+         "Actors": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young",
+            "Carl Weathers",
+            "Burgess Meredith",
+            "Thayer David",
+            "Joe Spinell",
+            "Tony Burton",
+            "Pedro Lovell"
+         ],
+         "Awards": "Won 3 Oscars. Another 17 wins & 21 nominations.",
+         "BoxOffice": "N/A",
+         "Country": "USA",
+         "Director": "John G. Avildsen",
+         "Genre": "Drama, Sport",
+         "Language": "English",
+         "Metascore": "70",
+         "Plot": "A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+         "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg",
+         "Rated": "PG",
+         "Ratings": [
+            {
+               "Source": "Internet Movie Database",
+               "Value": "8.1/10"
+            },
+            {
+               "Source": "Rotten Tomatoes",
+               "Value": "94%"
+            },
+            {
+               "Source": "Metacritic",
+               "Value": "70/100"
+            }
+         ],
+         "ReleaseDate": "0001-01-01T00:00:00",
+         "Runtime": "120 min",
+         "Title": "Rocky",
+         "Type": "movie",
+         "Website": "N/A",
+         "Writers": [
+            "Sylvester Stallone"
+         ],
+         "Year": 1976,
+         "imdbID": "tt0075148",
+         "imdbRating": 8.1,
+         "imdbVotes": 0
+      }
+   ],
+   "numberofmovies": 4
+}

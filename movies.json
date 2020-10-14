@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "Title": "Casino Royale",
+      "Year": 2006,
+      "Rated": "PG-13",
+      "Released": "17 Nov 2006",
+      "Runtime": "144 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench"
+    },
+    {
+      "Title": "The Wizard of Oz",
+      "Year": 1939,
+      "Rated": "PG",
+      "Released": "25 Aug 1939",
+      "Runtime": "102 min",
+      "Genre": "Adventure, Family, Fantasy, Musical",
+      "Actors": "Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr"
+    },
+    {
+      "Title": "Lincoln",
+      "Year": 2012,
+      "Rated": "PG-13",
+      "Released": "16 Nov 2012",
+      "Runtime": "150 min",
+      "Genre": "Biography, Drama, History, War",
+      "Actors": "Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt"
+    }
+  ]
+}

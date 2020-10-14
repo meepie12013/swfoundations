@@ -1,0 +1,19 @@
+{
+    "id": 4911,
+    "firstName": "John",
+    "lastName": "Walter",
+    "isStudent": true,
+    "graduated": null,
+    "classes": {
+        "period-1": "Chemistry",
+        "period-2": "Math",
+        "period-3": "Computers",
+        "period-4": "English"
+    },
+    "grades": [
+        82,
+        95,
+        86,
+        93
+    ]
+}
